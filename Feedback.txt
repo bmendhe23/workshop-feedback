@@ -1,0 +1,19 @@
+Today's Git-Workshop was vary fascinating. Bhushan your teaching style is very great because of which I understood almost everything you taught and the OSOC members are very helpful and kind they helped me whenever i got stuck. Since I'm an Open Source Enthusiast I very much enjoyed it learning for the first time.
+
+The summary of what I learned today -
+
+1. How to initialize a local directory as git repo.
+2. How to clone a remote repo from GitHub to my local system and how to make changes to it.
+3. How to move file between 3 different states which are
+  a. Modified
+  b. Staged
+  c. Committed
+4. Different commands to manipulate files within repo.
+5. Comparisons of Modified and staged files as well as comparisons of Staged and committed files.
+6. Checking log of all previous commits.
+7. Creating new branches, switching between branches, modifying them and merging them with the main branch.
+8. About head and detached head and committed nodes & Jumping back to any previous node using it's hash Id and creating a branch from there and merging it.
+9. About reverting, cleaning & resetting.
+10. and Finally pushing updates to GitHub Repo.
+
+And Everything was up to the mark.
