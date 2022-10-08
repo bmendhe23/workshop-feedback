@@ -1,0 +1,9 @@
+I am Ritabrata Biswas
+My roll number is 205122081
+
+Before attending today's workshop, I haven't had any experience with Git. But how Bhusan Mendhe delivered today's lecture,
+I had almost no issues in understanding the concepts of git and github. It was a great learning experience for me.
+
+
+My willingness in joining the OSOC club has increased exponentially for sure :)
+
