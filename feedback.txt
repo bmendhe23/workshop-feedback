@@ -1,0 +1,14 @@
+Hi, my name is Diwanshu kumar.
+my roll number is 205122025.
+
+about Today workshop.
+Today workshop was quite intresting for me, 
+because i've learned so many new things about git and github 
+previously i've just heard about git and github.
+But after this workshop, atleast i know how to initiate, track, commit and push.
+and also what intermediate stages are there.
+
+that will be very useful in the future.
+
+So, Thank you so much OSOC Team Members for the workshop.
+
