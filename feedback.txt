@@ -1,0 +1,3 @@
+Fantastic workshop Bhushan! I knew basics of git but never fiddled around with git revert. 
+I'll surely be using it in the future. Presentation was concise and easy to understand.
+Kudos to you and the whole OSOC team!
